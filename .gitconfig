@@ -4,3 +4,9 @@
 	template = /Users/damien.lockhart/.gitmessage
 [push]
 	autoSetupRemote = true
+[merge]
+        tool = nvimdiff3
+[diff]
+        tool = nvimdiff3
+[difftool]
+        prompt = false
